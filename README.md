@@ -66,5 +66,4 @@ This project focuses on developing a machine learning (ML) model for wine qualit
 
 
 # Performance Metric
-
-## The primary performance metric is the F1 score, evaluated using Spark’s MLlib.
+The primary performance metric is the F1 score, evaluated using Spark’s MLlib.
