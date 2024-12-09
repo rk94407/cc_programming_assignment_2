@@ -13,20 +13,20 @@ This project focuses on developing a machine learning (ML) model for wine qualit
 ## Requirements
 
 ## Software
-	•	Java: JDK 8 or later
-	•	Apache Spark: Version compatible with MLlib (e.g., Spark 3.x)
-	•	Docker: Latest version
-	•	Ubuntu Linux: Recommended OS for EC2 instances
-	•	AWS CLI: For managing AWS resources
+•	Java: JDK 8 or later
+•	Apache Spark: Version compatible with MLlib (e.g., Spark 3.x)
+•	Docker: Latest version
+•	Ubuntu Linux: Recommended OS for EC2 instances
+•	AWS CLI: For managing AWS resources
 
 ## AWS Resources
-	•	4 EC2 Instances: For parallel model training
-	•	1 EC2 Instance: For model validation, tuning, and prediction
+•	4 EC2 Instances: For parallel model training
+•	1 EC2 Instance: For model validation, tuning, and prediction
 
 ## Input Files
-	1.	TrainingDataset.csv: Used for training the ML model in parallel.
-	2.	ValidationDataset.csv: Used for validating and optimizing the model.
-	3.	TestDataset.csv: For testing prediction functionality (not provided).
+1.	TrainingDataset.csv: Used for training the ML model in parallel.
+2.	ValidationDataset.csv: Used for validating and optimizing the model.
+3.	TestDataset.csv: For testing prediction functionality (not provided).
 
 # Setup and Usage
 
