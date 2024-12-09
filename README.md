@@ -2,7 +2,7 @@
 
 # Project Overview
 
-## This project focuses on developing a machine learning (ML) model for wine quality prediction using Apache Spark’s MLlib on the AWS cloud platform. The goal is to utilize parallel processing on multiple EC2 instances for training and deploy a Docker container for simplified deployment of the prediction application.
+This project focuses on developing a machine learning (ML) model for wine quality prediction using Apache Spark’s MLlib on the AWS cloud platform. The goal is to utilize parallel processing on multiple EC2 instances for training and deploy a Docker container for simplified deployment of the prediction application.
 
 ## Features
 1. Parallel model training using Spark on 4 EC2 instances.
